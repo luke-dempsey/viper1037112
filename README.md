@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @viper1037112
-- 👀 I’m interested in .NET development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @dempsey-luke
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning C++, C, Java
 
 <!---
 viper1037112/viper1037112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
